@@ -1,0 +1,14 @@
+
+Subir
+
+git add .
+git commit -m "algo"
+git push
+
+Descargar
+
+git clone http.....
+
+Actualizar 
+
+git pull
